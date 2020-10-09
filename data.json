@@ -1,0 +1,316 @@
+{
+  "code": 1,
+  "data": [
+    {
+      "_id": "5e7c53850e2582a7daad7d24",
+      "companyName": "陈之浩",
+      "city": "泰安",
+      "positionName": "全栈",
+      "salary": "0",
+      "companyLogo": "companyLogo-1585206149525.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53160e2582a7daad7d1a",
+      "companyName": "黑人",
+      "city": "印度",
+      "positionName": "黑",
+      "salary": "1",
+      "companyLogo": "companyLogo-1585206038920.jpeg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c66ca439154ad2a66c4ed",
+      "companyName": "1",
+      "city": "1",
+      "positionName": "1",
+      "salary": "1",
+      "companyLogo": "companyLogo-1585211080255.exe",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c66d8439154ad2a66c4ee",
+      "companyLogo": "",
+      "companyName": "1",
+      "city": "1",
+      "positionName": "1",
+      "salary": "1",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c66df439154ad2a66c4ef",
+      "companyLogo": "",
+      "companyName": "1",
+      "city": "1",
+      "positionName": "1",
+      "salary": "1",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53b10e2582a7daad7d2d",
+      "companyName": "科创365",
+      "city": "北京",
+      "positionName": "CEO",
+      "salary": "10000000",
+      "companyLogo": "companyLogo-1585206193602.png",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c534f0e2582a7daad7d1e",
+      "companyName": "传销组织",
+      "city": "beijing",
+      "positionName": "web前端工程师",
+      "salary": "100k",
+      "companyLogo": "companyLogo-1585206094280.bmp",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53fa0e2582a7daad7d31",
+      "companyName": "中国海油",
+      "city": "深圳",
+      "positionName": "操作工",
+      "salary": "10k",
+      "companyLogo": "companyLogo-1585206266988.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c535d0e2582a7daad7d21",
+      "companyName": "百度",
+      "city": "北京",
+      "positionName": "web前端",
+      "salary": "15K",
+      "companyLogo": "companyLogo-1585206109494.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53b20e2582a7daad7d2e",
+      "companyName": "字节跳动",
+      "city": "北京",
+      "positionName": "H5",
+      "salary": "18000",
+      "companyLogo": "companyLogo-1585206194778.png",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c538d0e2582a7daad7d27",
+      "companyName": "你猜",
+      "city": "beijing",
+      "positionName": "H5",
+      "salary": "18k",
+      "companyLogo": "companyLogo-1585206157182.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53430e2582a7daad7d1d",
+      "companyName": "好味道 ",
+      "city": "北京",
+      "positionName": "首席蝙蝠试吃官",
+      "salary": "1K",
+      "companyLogo": "companyLogo-1585206083113.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53ab0e2582a7daad7d2b",
+      "companyName": "猿人科技",
+      "city": "北京",
+      "positionName": "前端配置工程师",
+      "salary": "1K",
+      "companyLogo": "companyLogo-1585206187685.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c538d0e2582a7daad7d26",
+      "companyName": "豆瓣",
+      "city": "重庆",
+      "positionName": "Php",
+      "salary": "1k",
+      "companyLogo": "companyLogo-1585206156206.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53b00e2582a7daad7d2c",
+      "companyName": "梦娜丽莎",
+      "city": "杭州",
+      "positionName": "梦丽",
+      "salary": "20K",
+      "companyLogo": "companyLogo-1585206192382.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53210e2582a7daad7d1b",
+      "companyName": "科技有限公司",
+      "city": "北京",
+      "positionName": "web",
+      "salary": "20k",
+      "companyLogo": "companyLogo-1585206047586.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53630e2582a7daad7d22",
+      "companyName": "字节跳动",
+      "city": "北京",
+      "positionName": "web前端高级工程师",
+      "salary": "20k",
+      "companyLogo": "companyLogo-1585206115489.jpeg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53c70e2582a7daad7d2f",
+      "companyName": "星火",
+      "city": "杭州",
+      "positionName": "dr",
+      "salary": "25k",
+      "companyLogo": "companyLogo-1585206213715.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c539d0e2582a7daad7d29",
+      "companyName": "北京字节跳动",
+      "city": "北京",
+      "positionName": "大前端开发工程师",
+      "salary": "25k-30k",
+      "companyLogo": "companyLogo-1585206173562.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53f30e2582a7daad7d30",
+      "companyName": "可口可乐有限公司",
+      "city": "哈尔滨",
+      "positionName": "饮料体验师",
+      "salary": "30k",
+      "companyLogo": "companyLogo-1585206259845.jpeg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53500e2582a7daad7d1f",
+      "companyName": "涂鸦公司",
+      "city": "深圳",
+      "positionName": "数据分析师",
+      "salary": "30k-40k",
+      "companyLogo": "companyLogo-1585206096242.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c533d0e2582a7daad7d1c",
+      "companyName": "悠然科技",
+      "city": "北京",
+      "positionName": "前端",
+      "salary": "30k-50k",
+      "companyLogo": "companyLogo-1585206076968.png",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c535c0e2582a7daad7d20",
+      "companyName": "大boss公司",
+      "city": "北京",
+      "positionName": "前端开发",
+      "salary": "35k",
+      "companyLogo": "companyLogo-1585206108241.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53890e2582a7daad7d25",
+      "companyName": "白胡子海贼团",
+      "city": "红土大陆",
+      "positionName": "第二队队长",
+      "salary": "3亿贝利",
+      "companyLogo": "companyLogo-1585206152860.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53fc0e2582a7daad7d32",
+      "companyName": "朱萧逸",
+      "city": "北京",
+      "positionName": "大前端",
+      "salary": "50k",
+      "companyLogo": "companyLogo-1585206268560.webp",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c5b54439154ad2a66c4ec",
+      "companyName": "朱萧逸",
+      "city": "beijing",
+      "positionName": "大前端",
+      "salary": "50k",
+      "companyLogo": "companyLogo-1585208148002.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7eb2c6d96a00e4d571e26b",
+      "companyName": "55",
+      "city": "66",
+      "positionName": "55",
+      "salary": "55",
+      "companyLogo": "companyLogo-1585361606656.jpg",
+      "createTime": "2020-3-28",
+      "__v": 0
+    },
+    {
+      "_id": "5e7eb41cd96a00e4d571e26c",
+      "companyName": "66",
+      "city": "66",
+      "positionName": "66",
+      "salary": "66",
+      "companyLogo": "companyLogo-1585361948950.jpg",
+      "createTime": "2020-3-28",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c53670e2582a7daad7d23",
+      "companyName": "e宠科技",
+      "city": "成都",
+      "positionName": "首席执行官",
+      "salary": "68k",
+      "companyLogo": "companyLogo-1585206119101.png",
+      "createTime": "2020-3-26",
+      "__v": 0
+    },
+    {
+      "_id": "5e7df6cb249d35d1e3095ec8",
+      "companyName": "55",
+      "city": "66",
+      "positionName": "77",
+      "salary": "77",
+      "companyLogo": "companyLogo-1585313483654.jpg",
+      "createTime": "2020-3-27",
+      "__v": 0
+    },
+    {
+      "_id": "5e7c538d0e2582a7daad7d28",
+      "companyName": "腾讯",
+      "city": "天津",
+      "positionName": "氪金大使",
+      "salary": "看你业绩",
+      "companyLogo": "companyLogo-1585206157465.jpg",
+      "createTime": "2020-3-26",
+      "__v": 0
+    }
+  ],
+  "total": 31
+}
